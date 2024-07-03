@@ -9,7 +9,7 @@
 4. [Configuración](#configuración)
 5. [Uso](#uso)
 6. [Ejemplo](#ejemplo)
-7. [Autores](#autores)
+7. [Autor](#autores)
 
 
 ## Descripción General
