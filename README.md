@@ -123,6 +123,6 @@ El resultado de convertr 7895.0 MXN(Peso mexicano) es: 432.09335 USD(Dolar estad
 Si desea realizar una conversión más ingrese 1 sino ingrese 0
  ```
 
-##Autor
+## Autor
 | [<img src="https://avatars.githubusercontent.com/u/29052820?s=400&v=4" width=115><br><sub>Daniel Zazueta</sub>](https://github.com/daniel-S14) |
 | :---: |
