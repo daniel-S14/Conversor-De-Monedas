@@ -25,7 +25,7 @@ Esta es una aplicación simple en Java que convierte valores de moneda utilizand
 
 ## Requisitos
 
-- Java 8 o superior
+- Java 16 o superior
 - Biblioteca Gson
 - Conexión a Internet
 
